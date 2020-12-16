@@ -1,0 +1,17 @@
+#signal{
+    height: 300px;
+    width: 200px;
+    background-color: black;
+    margin: 25 auto;
+    border-radius: 5px;
+    padding-top: 2px;
+    padding-bottom: 4px;
+}
+
+.light{
+    border-radius: 50%;
+    height: 70px;
+    width: 70px;
+    background-color: grey;
+    margin: 30 auto;
+}
